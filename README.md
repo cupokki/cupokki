@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![로고명](https://img.shields.io/badge/java-#F7DF1E.svg?&style=for-the-badge&logo=java&logoColor=#F7DF1E)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cupokki)](https://solved.ac/cupokki/)
 ![cupokki's GitHub stats](https://github-readme-stats.vercel.app/api?username=cupokki&show_icons=true&theme=radical)
