@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cupokki)](https://solved.ac/cupokki/)
-[![cupokki's GitHub stats](https://github-readme-stats.vercel.app/api?cupokki=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![cupokki's GitHub stats](https://github-readme-stats.vercel.app/api?cupokki=anuraghazra&show_icons=true&theme=radical)
+![cupokki's GitHub stats](https://github-readme-stats.vercel.app/api?username=cupokki&show_icons=true&theme=radical)
